@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: calc(100% - 4rem);
+}
+
+.footer {
+    height: 4rem;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    font-family: fantasy;
+    font-size: medium;
+}
